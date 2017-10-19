@@ -2,10 +2,14 @@
   "packageDirectories": [
     {
       "path": "force-app/main/default",
-      "default": true
+      "default": true,
+      "id": "0Hof4000000TN1KCAW",
+      "versionName": "v 1.0",
+      "versionDescription": "Version 1.0",
+      "versionNumber": "1.0.0.NEXT"
     }
   ],
-  "namespace": "",
+  "namespace": "kamdreamtestns",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "40.0"
+  "sourceApiVersion": "41.0"
 }
