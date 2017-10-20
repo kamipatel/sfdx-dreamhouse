@@ -10,7 +10,7 @@
       "ancestorId": ""
     }
   ],
-  "namespace": "",
+  "namespace": "kamdreamtestns",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "40.0"
 }
